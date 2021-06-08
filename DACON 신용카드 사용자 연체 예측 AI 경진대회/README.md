@@ -31,4 +31,9 @@
 - 인원: 3명
 - 주요 업무: EDA, 시각화, PPT 제작
 - 기간: 2021.04.30 - 2021.05.24
-### 7. 결과
+### 7. 시각화 
+- Data Imbalance, 변수 처리를 하기 전에 ```Tableau```를 이용하여 시각화
+- 링크: https://public.tableau.com/app/profile/eunjin.jun/viz/credit_eda_jej/creditcard_ai_jej
+### 8. 결과
+- 전체 714팀 중 229등
+
