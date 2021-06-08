@@ -17,7 +17,7 @@ The dataset is used for this competition is synthetic but based on a real datase
 PassengerId (sorted in any order) \
 Survived (contains your binary predictions: 1 for survived, 0 for deceased)
 ### 4. 팀 구성
-- 작업툴: Kaggle Notebook 
+- 작업툴: ```Kaggle Notebook``` 
 - 인원: 4명
 - 주요 업무: EDA, PPT 제작 
 - 기간: 2021.04.19 - 2021.04.30
