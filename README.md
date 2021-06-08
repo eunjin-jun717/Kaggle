@@ -1,6 +1,6 @@
 # Project
 👉 2021 April Kaggle Play Ground (Kaggle 대회)
-- 언어: Python
+- 언어: ```Python```
 - 작업툴: Kaggle notebook
 - 인원: 4명
 - 기간: 2021.04.19 - 2021.04.30
@@ -9,8 +9,8 @@
 - 결과: 전체 1244팀 중 280등(TOP 23%)
 
 👉 DACON 신용카드 사용자 연체 예측 AI 경진대회 (DACON 대회)
-- 언어: Python
-- 작업툴: Google Colab, Tableau
+- 언어: ```Python```
+- 작업툴: ```Google Colab```, ```Tableau```
 - 인원: 3명
 - 기간: 2021.04.30 - 2021.05.24
 - 내용: 신용카드 사용자들의 개인 신상정보 데이터로 사용자의 신용카드 대금 연체 정도를 예측
