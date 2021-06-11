@@ -1,6 +1,6 @@
 # Project
----
-## Competition
+
+## Competition🏆
 👉 2021 April Kaggle Play Ground (Kaggle 대회)
 - 언어: ```Python```
 - 작업툴: ```Kaggle notebook```
@@ -18,8 +18,8 @@
 - 내용: 신용카드 사용자들의 개인 신상정보 데이터로 사용자의 신용카드 대금 연체 정도를 예측
 - 기여: 데이터 전처리, 시각화 및 분석, 모델링
 - 결과: 전체 714팀 중 229등
----
-## Personal Project
+
+## Personal Project💡
 👉 DACON 한국 부동산 데이터 시각화 경진대회 (DACON 대회)
 - 언어: ```Python```
 - 작업툴: ```Tableau```
